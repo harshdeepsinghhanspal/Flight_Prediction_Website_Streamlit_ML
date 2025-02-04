@@ -8,3 +8,5 @@ Streamlit📛 and other ML🤖 libaries are being used here.
 [+] First, train🏃‍♂️ the dataset and get the scaler model.
 
 [+] Then make the interface🎛 and use the scaler model there to make predictions.
+
+[+] ⚠Use "python -m streamlit run whole-directory.py" command line to execute the .py file.
